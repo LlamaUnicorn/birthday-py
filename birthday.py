@@ -21,4 +21,4 @@ str_dm = str(dm)
 
 for name, age in data.items():
     if age == str_dm:
-        print(f"Today is", name, "'s birthday")
+        print(f"Today is {name}'s birthday!")
